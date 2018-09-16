@@ -77,7 +77,7 @@
     "subtitle": "GOSH",
     "start-date": "Sept/Oct 2018",
     "end-date": null,
-    "status": "planned",
+    "status": "active",
     "hosts": null,
     "partners": null,
     "type-org": "Community",
@@ -2588,6 +2588,29 @@
       "google-plus": "https://plus.google.com/113393817402093284211/about",
       "linkedin": "https://www.linkedin.com/company/trysci-community-biolabs",
       "website": "http://www.trysci.org/"
+    }
+  },
+  {
+    "title": null,
+    "collection": "labs",
+    "url": "/labs/turbiniabiolab/",
+    "subtitle": null,
+    "start-date": null,
+    "end-date": null,
+    "status": "unknown",
+    "hosts": null,
+    "partners": null,
+    "type-org": null,
+    "address": null,
+    "directions": null,
+    "city": null,
+    "state": null,
+    "post-code": null,
+    "country": null,
+    "_geoloc": null,
+    "tags": null,
+    "links": {
+      
     }
   },
   {

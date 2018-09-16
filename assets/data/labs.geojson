@@ -1039,6 +1039,26 @@
             "marker": "marker",
             "collection": "labs"
           }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
+            "title": null,
+            "url": "/labs/turbiniabiolab/",
+            "address": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "type-org": null,
+            "color": "grey",
+            "marker": "circle",
+            "collection": "labs"
+          }
       }
       
     ]
