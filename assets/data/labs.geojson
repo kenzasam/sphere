@@ -1059,6 +1059,26 @@
             "marker": "circle",
             "collection": "labs"
           }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
+            "title": null,
+            "url": "/labs/top/",
+            "address": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "type-org": null,
+            "color": "grey",
+            "marker": "circle",
+            "collection": "labs"
+          }
       }
       
     ]

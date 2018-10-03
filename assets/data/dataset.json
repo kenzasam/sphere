@@ -2614,6 +2614,29 @@
     }
   },
   {
+    "title": null,
+    "collection": "labs",
+    "url": "/labs/top/",
+    "subtitle": null,
+    "start-date": null,
+    "end-date": null,
+    "status": "unknown",
+    "hosts": null,
+    "partners": null,
+    "type-org": null,
+    "address": null,
+    "directions": null,
+    "city": null,
+    "state": null,
+    "post-code": null,
+    "country": null,
+    "_geoloc": null,
+    "tags": null,
+    "links": {
+      
+    }
+  },
+  {
     "title": "BioChanges BioDesign",
     "collection": "networks",
     "url": "/networks/biochanges/",
