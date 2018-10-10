@@ -2103,6 +2103,30 @@
     }
   },
   {
+    "title": "Just One Giant Lab",
+    "collection": "labs",
+    "url": "/labs/justonegiantlab/",
+    "subtitle": "We help sync humanity onto solving our most urgent & important problems using Open Science, Responsible Innovation & Continuous Learning",
+    "start-date": 2015,
+    "end-date": null,
+    "status": "active",
+    "hosts": null,
+    "partners": null,
+    "type-org": "nonprofit",
+    "address": null,
+    "directions": null,
+    "city": null,
+    "state": null,
+    "post-code": null,
+    "country": "France",
+    "_geoloc": null,
+    "tags": [],
+    "links": {
+      "twitter": "https://twitter.com/justonegiantlab",
+      "website": "http://jogl.io/"
+    }
+  },
+  {
     "title": null,
     "collection": "labs",
     "url": "/labs/katalab/",

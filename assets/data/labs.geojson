@@ -668,6 +668,26 @@
           "coordinates": []
           },
           "properties": {
+            "title": "Just One Giant Lab",
+            "url": "/labs/justonegiantlab/",
+            "address": null,
+            "city": null,
+            "state": null,
+            "country": "France",
+            "type-org": "nonprofit",
+            "color": "blue",
+            "marker": "circle",
+            "collection": "labs"
+          }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
             "title": null,
             "url": "/labs/katalab/",
             "address": null,

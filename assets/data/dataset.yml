@@ -1477,6 +1477,18 @@
     youtube: https://www.youtube.com/channel/UCAYGsEQUx4DmjiEhv48-0UA
     website: http://rva.indielab.co/
 
+- title: Just One Giant Lab
+  collection: labs
+  sphere_url: /labs/justonegiantlab/
+  subtitle: We help sync humanity onto solving our most urgent & important problems using Open Science, Responsible Innovation & Continuous Learning
+  start-date: 2015
+  type-org: nonprofit
+  country: France
+  tags: 
+  links:
+    twitter: https://twitter.com/justonegiantlab
+    website: http://jogl.io/
+
 - title: 
   collection: labs
   sphere_url: /labs/katalab/
