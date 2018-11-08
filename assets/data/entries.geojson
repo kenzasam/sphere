@@ -1715,6 +1715,25 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [13.421187, 52.478156]
+          },
+          "properties": {
+            "title": "top",
+            "url": "/labs/top/",
+            "address": "Schillerpromenade 4 12049",
+            "city": "Berlin",
+            "state": null,
+            "country": "Germany",
+            "status": "active",
+            "color": "blue",
+            "marker": "marker",
+            "collection": "labs"
+          }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [-0.127758, 51.507351]
           },
           "properties": {

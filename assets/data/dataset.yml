@@ -1826,11 +1826,26 @@
   links:
     
 
-- title: 
+- title: top
   collection: labs
   sphere_url: /labs/top/
+  subtitle: transdisciplinary project place for art and science in Berlin
+  start-date: 2017
+  type-org: community
+  city: Berlin
+  country: Germany
+  _geoloc:
+    lat: 52.478156
+    lng: 13.421187
+  tags: 
+    - DIYBio
+    - bioart
+    - microfluidics
+    - citizen science
   links:
-    
+    facebook: https://www.facebook.com/toplabs/notifications/
+    twitter: https://twitter.com/TopLab_Berlin
+    website: http://www.top-ev.de/
 
 
 

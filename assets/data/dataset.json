@@ -2638,26 +2638,28 @@
     }
   },
   {
-    "title": null,
+    "title": "top",
     "collection": "labs",
     "url": "/labs/top/",
-    "subtitle": null,
-    "start-date": null,
+    "subtitle": "transdisciplinary project place for art and science in Berlin",
+    "start-date": 2017,
     "end-date": null,
-    "status": "unknown",
+    "status": "active",
     "hosts": null,
     "partners": null,
-    "type-org": null,
-    "address": null,
+    "type-org": "community",
+    "address": "Schillerpromenade 4 12049",
     "directions": null,
-    "city": null,
+    "city": "Berlin",
     "state": null,
     "post-code": null,
-    "country": null,
-    "_geoloc": null,
-    "tags": null,
+    "country": "Germany",
+    "_geoloc": {"lat":52.478156,"lng":13.421187},
+    "tags": ["DIYBio","bioart","microfluidics","citizen science"],
     "links": {
-      
+      "facebook": "https://www.facebook.com/toplabs/notifications/",
+      "twitter": "https://twitter.com/TopLab_Berlin",
+      "website": "http://www.top-ev.de/"
     }
   },
   {

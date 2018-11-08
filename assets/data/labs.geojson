@@ -1084,19 +1084,19 @@
       {
         "type": "Feature",
         "geometry": {
-          "type": 
-          "coordinates": []
+          "type": "Point",
+          "coordinates": [13.421187, 52.478156]
           },
           "properties": {
-            "title": null,
+            "title": "top",
             "url": "/labs/top/",
-            "address": null,
-            "city": null,
+            "address": "Schillerpromenade 4 12049",
+            "city": "Berlin",
             "state": null,
-            "country": null,
-            "type-org": null,
-            "color": "grey",
-            "marker": "circle",
+            "country": "Germany",
+            "type-org": "community",
+            "color": "blue",
+            "marker": "marker",
             "collection": "labs"
           }
       }
