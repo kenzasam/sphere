@@ -44,6 +44,26 @@
       {
         "type": "Feature",
         "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
+            "title": "BioBlaze Community Bio Lab",
+            "url": "/labs/bioblaze/",
+            "address": null,
+            "city": "South Elgin",
+            "state": null,
+            "country": "USA",
+            "type-org": "non-profit",
+            "color": "blue",
+            "marker": "circle",
+            "collection": "labs"
+          }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
           "type": "Point",
           "coordinates": [-106.320034, 35.892568]
           },

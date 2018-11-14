@@ -1267,6 +1267,31 @@
     }
   },
   {
+    "title": "BioBlaze Community Bio Lab",
+    "collection": "labs",
+    "url": "/labs/bioblaze/",
+    "subtitle": "The first community bio lab in Chicagoland",
+    "start-date": "2017-10",
+    "end-date": null,
+    "status": "active",
+    "hosts": null,
+    "partners": null,
+    "type-org": "non-profit",
+    "address": null,
+    "directions": null,
+    "city": "South Elgin",
+    "state": null,
+    "post-code": null,
+    "country": "USA",
+    "_geoloc": null,
+    "tags": [],
+    "links": {
+      "facebook": "https://www.facebook.com/BioBlazeLab",
+      "meetup": "https://www.meetup.com/BioBlaze-Community-Bio-Lab/",
+      "website": "https://www.bioblaze.org/"
+    }
+  },
+  {
     "title": "Biodidact",
     "collection": "labs",
     "url": "/labs/biodidact/",

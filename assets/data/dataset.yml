@@ -879,6 +879,20 @@
     flickr: https://www.flickr.com/photos/bioartlab
     website: http://bioartlab.com/
 
+- title: BioBlaze Community Bio Lab
+  collection: labs
+  sphere_url: /labs/bioblaze/
+  subtitle: The first community bio lab in Chicagoland
+  start-date: 2017-10
+  type-org: non-profit
+  city: South Elgin
+  country: USA
+  tags: 
+  links:
+    facebook: https://www.facebook.com/BioBlazeLab
+    meetup: https://www.meetup.com/BioBlaze-Community-Bio-Lab/
+    website: https://www.bioblaze.org/
+
 - title: Biodidact
   collection: labs
   sphere_url: /labs/biodidact/
