@@ -144,6 +144,26 @@
       {
         "type": "Feature",
         "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
+            "title": "Biook",
+            "url": "/groups/biook/",
+            "address": "Uribitarte Kalea, 6, Paseo Uribitarte, 3, 48001 Bilbao, BI",
+            "city": "BILBAO",
+            "state": null,
+            "country": "SPAIN",
+            "type-org": "community",
+            "color": "blue",
+            "marker": "marker",
+            "collection": "groups"
+          }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
           "type": "Point",
           "coordinates": [-83.042339, 39.997578]
           },

@@ -485,6 +485,31 @@
     }
   },
   {
+    "title": "Biook",
+    "collection": "groups",
+    "url": "/groups/biook/",
+    "subtitle": "BIOOK is a non-profit association that aims to promote social innovation, creating ecosystems for citizens to participate and enjoy scientific-cultural production, eliminating boundaries between biology and other disciplines. BIOOK is based on the Do It Yourself Biology (DIYbio) movement and on Citizen Science.",
+    "start-date": "2018-07-07",
+    "end-date": null,
+    "status": "active",
+    "hosts": null,
+    "partners": null,
+    "type-org": "community",
+    "address": "Uribitarte Kalea, 6, Paseo Uribitarte, 3, 48001 Bilbao, BI",
+    "directions": null,
+    "city": "BILBAO",
+    "state": null,
+    "post-code": null,
+    "country": "SPAIN",
+    "_geoloc": null,
+    "tags": ["biook","diybio","biohacking","openscience","community lab","citizen science"],
+    "links": {
+      "facebook": "https://www.facebook.com/biook.org/",
+      "twitter": "https://twitter.com/biook_org",
+      "website": "www.biook.org ; www.bbkopenscience.com"
+    }
+  },
+  {
     "title": "Cap City Biohackers",
     "collection": "groups",
     "url": "/groups/capcitybiohackers/",
