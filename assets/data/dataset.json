@@ -3694,6 +3694,30 @@
     }
   },
   {
+    "title": "Lederer-Stark Innovations GbR",
+    "collection": "startups",
+    "url": "/startups/lederer-stark-innovations-gbr/",
+    "subtitle": "A young German start-up focused on supporting and supplying all German and European DIY-Biologists and -Chemists.",
+    "start-date": 2018,
+    "end-date": null,
+    "status": "active",
+    "hosts": null,
+    "partners": null,
+    "type-org": "company",
+    "address": null,
+    "directions": null,
+    "city": "Allmersbach im Tal",
+    "state": null,
+    "post-code": null,
+    "country": "Germany",
+    "_geoloc": null,
+    "tags": ["supplies","citizen science","chemicals","europe"],
+    "links": {
+      "email": "support@ls-innovations.de",
+      "website": "www.ls-innovations.de"
+    }
+  },
+  {
     "title": "Microsynbiotix",
     "collection": "startups",
     "url": "/startups/microsynbiotix/",

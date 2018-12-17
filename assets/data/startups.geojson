@@ -388,6 +388,26 @@
           "coordinates": []
           },
           "properties": {
+            "title": "Lederer-Stark Innovations GbR",
+            "url": "/startups/lederer-stark-innovations-gbr/",
+            "address": null,
+            "city": "Allmersbach im Tal",
+            "state": null,
+            "country": "Germany",
+            "type-org": "company",
+            "color": "blue",
+            "marker": "circle",
+            "collection": "startups"
+          }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
             "title": "Microsynbiotix",
             "url": "/startups/microsynbiotix/",
             "address": null,

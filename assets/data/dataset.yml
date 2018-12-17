@@ -2523,6 +2523,23 @@
     twitter: https://twitter.com/DNAPrototyper
     website: http://www.kilobaser.com/
 
+- title: Lederer-Stark Innovations GbR
+  collection: startups
+  sphere_url: /startups/lederer-stark-innovations-gbr/
+  subtitle: A young German start-up focused on supporting and supplying all German and European DIY-Biologists and -Chemists.
+  start-date: 2018
+  type-org: company
+  city: Allmersbach im Tal
+  country: Germany
+  tags: 
+    - supplies
+    - citizen science
+    - chemicals
+    - europe
+  links:
+    email: support@ls-innovations.de
+    website: www.ls-innovations.de
+
 - title: Microsynbiotix
   collection: startups
   sphere_url: /startups/microsynbiotix/
