@@ -528,14 +528,14 @@
           "coordinates": []
           },
           "properties": {
-            "title": null,
+            "title": "Quantgene",
             "url": "/startups/quantgene/",
             "address": null,
-            "city": null,
+            "city": "Berkeley",
             "state": null,
-            "country": null,
-            "type-org": null,
-            "color": "grey",
+            "country": "United States",
+            "type-org": "Company/Start-up",
+            "color": "blue",
             "marker": "circle",
             "collection": "startups"
           }

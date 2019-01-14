@@ -5,6 +5,26 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [-2.927505, 43.257406]
+          },
+          "properties": {
+            "title": "BBK Open Science",
+            "url": "/events/bbkopenscience/",
+            "address": "BILBOROCK, Mesedeetako Kaia, 1, 48003 Bilbao, Bizkaia",
+            "city": "Bilbao",
+            "state": null,
+            "country": "Spain",
+            "type-org": "community",
+            "color": "blue",
+            "marker": "marker",
+            "collection": "events"
+          }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [-74.00295, 40.657082]
           },
           "properties": {

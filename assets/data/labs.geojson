@@ -708,15 +708,15 @@
           "coordinates": []
           },
           "properties": {
-            "title": null,
+            "title": "[kat]alab Vienna",
             "url": "/labs/katalab/",
-            "address": null,
+            "address": "to bee found :)",
             "city": null,
             "state": null,
             "country": null,
-            "type-org": null,
-            "color": "grey",
-            "marker": "circle",
+            "type-org": "community",
+            "color": "blue",
+            "marker": "marker",
             "collection": "labs"
           }
       },
@@ -1084,18 +1084,18 @@
       {
         "type": "Feature",
         "geometry": {
-          "type": 
-          "coordinates": []
+          "type": "Point",
+          "coordinates": [54.978252, -1.61778]
           },
           "properties": {
-            "title": null,
+            "title": "Turbine Bio Lab",
             "url": "/labs/turbiniabiolab/",
             "address": null,
-            "city": null,
+            "city": "Newcastle",
             "state": null,
-            "country": null,
-            "type-org": null,
-            "color": "grey",
+            "country": "England",
+            "type-org": "Citizen",
+            "color": "blue",
             "marker": "circle",
             "collection": "labs"
           }

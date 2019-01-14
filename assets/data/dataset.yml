@@ -1,6 +1,33 @@
 
 
 
+- title: BBK Open Science
+  collection: events
+  sphere_url: /events/bbkopenscience/
+  subtitle: Festival de la Ciencia Abierta y Participativa (Participatory and Open Science Festival)
+  start-date: 2019-01-18
+  end-date: 2019-01-20
+  hosts: 
+    - 'Biook'
+  type-org: community
+  city: Bilbao
+  country: Spain
+  _geoloc:
+    lat: 43.257406
+    lng: -2.927505
+  tags: 
+    - diybio
+    - biohacking
+    - open science
+    - citizen science
+    - festival
+  links:
+    facebook: https://www.facebook.com/bbkopenscience/
+    twitter: https://twitter.com/bbkopenscience
+    instagram: https://www.instagram.com/bbkopenscience/
+    youtube: https://www.youtube.com/channel/UCHUolsfmFaJzfxQ1PiJHZiA
+    website: https://bbkopenscience.com/
+
 - title: Bio Design Challenge
   collection: events
   sphere_url: /events/biodesignchallenge/
@@ -335,22 +362,23 @@
 - title: Biook
   collection: groups
   sphere_url: /groups/biook/
-  subtitle: BIOOK is a non-profit association that aims to promote social innovation, creating ecosystems for citizens to participate and enjoy scientific-cultural production, eliminating boundaries between biology and other disciplines. BIOOK is based on the Do It Yourself Biology (DIYbio) movement and on Citizen Science.
   start-date: 2018-07-07
   type-org: community
-  city: BILBAO
-  country: SPAIN
+  city: Bilbao
+  country: Spain
+  _geoloc:
+    lat: 43.264988
+    lng: -2.927599
   tags: 
-    - biook
     - diybio
     - biohacking
-    - openscience
+    - open science
     - community lab
     - citizen science
   links:
     facebook: https://www.facebook.com/biook.org/
     twitter: https://twitter.com/biook_org
-    website: www.biook.org ; www.bbkopenscience.com
+    website: www.biook.org
 
 - title: Cap City Biohackers
   collection: groups
@@ -1523,11 +1551,18 @@
     twitter: https://twitter.com/justonegiantlab
     website: http://jogl.io/
 
-- title: 
+- title: [kat]alab Vienna
   collection: labs
   sphere_url: /labs/katalab/
+  subtitle: Initiative for Open Science, Technology, Art and Education
+  start-date: 2017
+  type-org: community
+  tags: 
+    - community lab
+    - mycelium
   links:
-    
+    email: hello@katalab.at
+    website: http://katalab.at
 
 - title: L'Eprouvette
   collection: labs
@@ -1854,10 +1889,23 @@
     linkedin: https://www.linkedin.com/company/trysci-community-biolabs
     website: http://www.trysci.org/
 
-- title: 
+- title: Turbine Bio Lab
   collection: labs
   sphere_url: /labs/turbiniabiolab/
+  subtitle: better living through beverages, botanicals and backterias
+  start-date: 2018-09-14
+  type-org: Citizen
+  city: Newcastle
+  country: England
+  _geoloc:
+    lat: -1.61778
+    lng: 54.978252
+  tags: 
+    - bioart
+    - fermentation
   links:
+    email: briandegger@gmail.com
+    twitter: https://twitter.com/turbiniabiolabs/
     
 
 - title: top
@@ -2638,11 +2686,20 @@
   links:
     website: https://www.prospectiveresearch.com/read-me/
 
-- title: 
+- title: Quantgene
   collection: startups
   sphere_url: /startups/quantgene/
+  subtitle: Making cancer a curable disease through early cancer detection
+  start-date: 2016
+  type-org: Company/Start-up
+  city: Berkeley
+  country: United States
+  tags: 
+    - cancer
+    - biotechnology
   links:
-    
+    facebook: https://www.facebook.com/quantgene/
+    website: http://www.quantgene.com/
 
 - title: RotterZwam
   collection: startups

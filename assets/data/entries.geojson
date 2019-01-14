@@ -5,6 +5,25 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [-2.927505, 43.257406]
+          },
+          "properties": {
+            "title": "BBK Open Science",
+            "url": "/events/bbkopenscience/",
+            "address": "BILBOROCK, Mesedeetako Kaia, 1, 48003 Bilbao, Bizkaia",
+            "city": "Bilbao",
+            "state": null,
+            "country": "Spain",
+            "status": "planned",
+            "color": "blue",
+            "marker": "marker",
+            "collection": "events"
+          }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [-74.00295, 40.657082]
           },
           "properties": {
@@ -226,6 +245,25 @@
             "status": "inactive",
             "color": "grey",
             "marker": "circle",
+            "collection": "groups"
+          }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-2.927599, 43.264988]
+          },
+          "properties": {
+            "title": "Biook",
+            "url": "/groups/biook/",
+            "address": "Uribitarte Kalea, 6, Paseo Uribitarte, 3, 48001 Bilbao, BI",
+            "city": "Bilbao",
+            "state": null,
+            "country": "Spain",
+            "status": "active",
+            "color": "blue",
+            "marker": "marker",
             "collection": "groups"
           }
       },
@@ -1708,6 +1746,25 @@
             "status": "active",
             "color": "blue",
             "marker": "marker",
+            "collection": "labs"
+          }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [54.978252, -1.61778]
+          },
+          "properties": {
+            "title": "Turbine Bio Lab",
+            "url": "/labs/turbiniabiolab/",
+            "address": null,
+            "city": "Newcastle",
+            "state": null,
+            "country": "England",
+            "status": "active",
+            "color": "blue",
+            "marker": "circle",
             "collection": "labs"
           }
       },

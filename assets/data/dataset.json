@@ -1,5 +1,32 @@
 [
   {
+    "title": "BBK Open Science",
+    "collection": "events",
+    "url": "/events/bbkopenscience/",
+    "subtitle": "Festival de la Ciencia Abierta y Participativa (Participatory and Open Science Festival)",
+    "start-date": "2019-01-18",
+    "end-date": "2019-01-20",
+    "status": "planned",
+    "hosts": ["Biook"],
+    "partners": null,
+    "type-org": "community",
+    "address": "BILBOROCK, Mesedeetako Kaia, 1, 48003 Bilbao, Bizkaia",
+    "directions": null,
+    "city": "Bilbao",
+    "state": null,
+    "post-code": null,
+    "country": "Spain",
+    "_geoloc": {"lat":43.257406,"lng":-2.927505},
+    "tags": ["diybio","biohacking","open science","citizen science","festival"],
+    "links": {
+      "facebook": "https://www.facebook.com/bbkopenscience/",
+      "twitter": "https://twitter.com/bbkopenscience",
+      "instagram": "https://www.instagram.com/bbkopenscience/",
+      "youtube": "https://www.youtube.com/channel/UCHUolsfmFaJzfxQ1PiJHZiA",
+      "website": "https://bbkopenscience.com/"
+    }
+  },
+  {
     "title": "Bio Design Challenge",
     "collection": "events",
     "url": "/events/biodesignchallenge/",
@@ -271,7 +298,7 @@
     "subtitle": "Free technologies for Latin America",
     "start-date": "April 16 to 21, 2018",
     "end-date": null,
-    "status": "active",
+    "status": "planned",
     "hosts": null,
     "partners": null,
     "type-org": "Organization",
@@ -488,7 +515,7 @@
     "title": "Biook",
     "collection": "groups",
     "url": "/groups/biook/",
-    "subtitle": "BIOOK is a non-profit association that aims to promote social innovation, creating ecosystems for citizens to participate and enjoy scientific-cultural production, eliminating boundaries between biology and other disciplines. BIOOK is based on the Do It Yourself Biology (DIYbio) movement and on Citizen Science.",
+    "subtitle": null,
     "start-date": "2018-07-07",
     "end-date": null,
     "status": "active",
@@ -497,16 +524,16 @@
     "type-org": "community",
     "address": "Uribitarte Kalea, 6, Paseo Uribitarte, 3, 48001 Bilbao, BI",
     "directions": null,
-    "city": "BILBAO",
+    "city": "Bilbao",
     "state": null,
     "post-code": null,
-    "country": "SPAIN",
-    "_geoloc": null,
-    "tags": ["biook","diybio","biohacking","openscience","community lab","citizen science"],
+    "country": "Spain",
+    "_geoloc": {"lat":43.264988,"lng":-2.927599},
+    "tags": ["diybio","biohacking","open science","community lab","citizen science"],
     "links": {
       "facebook": "https://www.facebook.com/biook.org/",
       "twitter": "https://twitter.com/biook_org",
-      "website": "www.biook.org ; www.bbkopenscience.com"
+      "website": "www.biook.org"
     }
   },
   {
@@ -2177,26 +2204,27 @@
     }
   },
   {
-    "title": null,
+    "title": "[kat]alab Vienna",
     "collection": "labs",
     "url": "/labs/katalab/",
-    "subtitle": null,
-    "start-date": null,
+    "subtitle": "Initiative for Open Science, Technology, Art and Education",
+    "start-date": 2017,
     "end-date": null,
-    "status": "unknown",
+    "status": "active",
     "hosts": null,
     "partners": null,
-    "type-org": null,
-    "address": null,
+    "type-org": "community",
+    "address": "to bee found :)",
     "directions": null,
     "city": null,
     "state": null,
     "post-code": null,
     "country": null,
     "_geoloc": null,
-    "tags": null,
+    "tags": ["community lab","mycelium"],
     "links": {
-      
+      "email": "hello@katalab.at",
+      "website": "http://katalab.at"
     }
   },
   {
@@ -2665,25 +2693,27 @@
     }
   },
   {
-    "title": null,
+    "title": "Turbine Bio Lab",
     "collection": "labs",
     "url": "/labs/turbiniabiolab/",
-    "subtitle": null,
-    "start-date": null,
+    "subtitle": "better living through beverages, botanicals and backterias",
+    "start-date": "2018-09-14",
     "end-date": null,
-    "status": "unknown",
+    "status": "active",
     "hosts": null,
     "partners": null,
-    "type-org": null,
+    "type-org": "Citizen",
     "address": null,
     "directions": null,
-    "city": null,
+    "city": "Newcastle",
     "state": null,
     "post-code": null,
-    "country": null,
-    "_geoloc": null,
-    "tags": null,
+    "country": "England",
+    "_geoloc": {"lat":-1.61778,"lng":54.978252},
+    "tags": ["bioart","fermentation"],
     "links": {
+      "email": "briandegger@gmail.com",
+      "twitter": "https://twitter.com/turbiniabiolabs/",
       
     }
   },
@@ -3871,26 +3901,27 @@
     }
   },
   {
-    "title": null,
+    "title": "Quantgene",
     "collection": "startups",
     "url": "/startups/quantgene/",
-    "subtitle": null,
-    "start-date": null,
+    "subtitle": "Making cancer a curable disease through early cancer detection",
+    "start-date": 2016,
     "end-date": null,
-    "status": "unknown",
+    "status": "active",
     "hosts": null,
     "partners": null,
-    "type-org": null,
+    "type-org": "Company/Start-up",
     "address": null,
     "directions": null,
-    "city": null,
+    "city": "Berkeley",
     "state": null,
     "post-code": null,
-    "country": null,
+    "country": "United States",
     "_geoloc": null,
-    "tags": null,
+    "tags": ["cancer","biotechnology"],
     "links": {
-      
+      "facebook": "https://www.facebook.com/quantgene/",
+      "website": "http://www.quantgene.com/"
     }
   },
   {
