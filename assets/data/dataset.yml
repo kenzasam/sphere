@@ -2092,6 +2092,29 @@
     twitter: https://twitter.com/booleanbiotech?lang=en
     website: http://blog.booleanbiotech.com/
 
+- title: CSA Ethics Working Group Resource Collection
+  collection: projects
+  sphere_url: /projects/csaethics/
+  subtitle: Please contribute and utilize ethics tools for DIY science (templates, tech, training, papers, etc)
+  start-date: 2017
+  hosts: 
+    - '[Citizen Science Association](http://www.citizenscience.org)'
+  type-org: community
+  country: United States
+  tags: 
+    - biohacking
+    - citizen science
+    - diybio
+    - education
+    - ethics
+    - open science
+    - open source
+    - research
+    - tools
+  links:
+    email: citsciethics@gmail.com
+    website: http://www.citizenscience.org/association/about/working-groups/ethics-working-group/resources/
+
 - title: Decentralized Oxalis Genome Project
   collection: projects
   sphere_url: /projects/decentralizedoxalisgenomeproject/

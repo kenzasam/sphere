@@ -44,6 +44,26 @@
       {
         "type": "Feature",
         "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
+            "title": "CSA Ethics Working Group Resource Collection",
+            "url": "/projects/csaethics/",
+            "address": null,
+            "city": null,
+            "state": null,
+            "country": "United States",
+            "type-org": "community",
+            "color": "blue",
+            "marker": "circle",
+            "collection": "projects"
+          }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
           "type": "Point",
           "coordinates": [-74.005973, 40.712775]
           },

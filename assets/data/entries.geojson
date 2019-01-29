@@ -14,8 +14,8 @@
             "city": "Bilbao",
             "state": null,
             "country": "Spain",
-            "status": "planned",
-            "color": "blue",
+            "status": "inactive",
+            "color": "grey",
             "marker": "marker",
             "collection": "events"
           }
