@@ -1976,6 +1976,19 @@
   links:
     website: https://biodesign.cc/
 
+- title: Citizen Science Global Partnership
+  collection: networks
+  sphere_url: /networks/citizenscienceglobalpartnership/
+  subtitle: A network-of-networks that seeks to promote and advance citizen science for a sustainable world
+  start-date: 2017-12-1
+  type-org: Nonprofit
+  city: Washington DC
+  country: United States
+  tags: 
+  links:
+    twitter: https://twitter.com/citsciglobal
+    website: http://citizenscienceglobal.org
+
 - title: DIYbio.org
   collection: networks
   sphere_url: /networks/diybio-org/

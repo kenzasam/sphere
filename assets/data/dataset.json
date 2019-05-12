@@ -2816,6 +2816,30 @@
     }
   },
   {
+    "title": "Citizen Science Global Partnership",
+    "collection": "networks",
+    "url": "/networks/citizenscienceglobalpartnership/",
+    "subtitle": "A network-of-networks that seeks to promote and advance citizen science for a sustainable world",
+    "start-date": "2017-12-1",
+    "end-date": null,
+    "status": "active",
+    "hosts": null,
+    "partners": null,
+    "type-org": "Nonprofit",
+    "address": null,
+    "directions": null,
+    "city": "Washington DC",
+    "state": null,
+    "post-code": null,
+    "country": "United States",
+    "_geoloc": null,
+    "tags": [],
+    "links": {
+      "twitter": "https://twitter.com/citsciglobal",
+      "website": "http://citizenscienceglobal.org"
+    }
+  },
+  {
     "title": "DIYbio.org",
     "collection": "networks",
     "url": "/networks/diybio-org/",
