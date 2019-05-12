@@ -30,6 +30,7 @@ This is collaborative project for community labs globally, hosted by Counter Cul
   - Biomakers Lab Peru
   - BosLab
   - SoundBio Lab
+  - Bricobio
   
 ## How to get involved
 1. Join the Kombucha Genomics [Mailing List](http://tinyurl.com/kombuchamailinglist)
