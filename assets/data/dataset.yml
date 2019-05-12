@@ -2132,11 +2132,19 @@
     facebook: https://www.facebook.com/oxalisgenome/
     website: https://www.facebook.com/oxalisgenome/
 
-- title: 
+- title: Interactive Mycelium Lights
   collection: projects
   sphere_url: /projects/interactivemyceliumlights/
+  subtitle: This is an ongoing project to intetegrate interactive lights and boards with mycelium lights
+  start-date: 2019-02-16
+  type-org: Education
+  city: Philadelphia
+  country: United States
+  tags: 
   links:
-    
+    facebook: https://m.facebook.com/christopher.sweeney.7771/
+    twitter: https://twitter.com/csweeneyartist
+    website: https://www.sweeneyartist.com/
 
 - title: Kombucha Genomics
   collection: projects

@@ -88,14 +88,14 @@
           "coordinates": []
           },
           "properties": {
-            "title": null,
+            "title": "Interactive Mycelium Lights",
             "url": "/projects/interactivemyceliumlights/",
             "address": null,
-            "city": null,
+            "city": "Philadelphia",
             "state": null,
-            "country": null,
-            "type-org": null,
-            "color": "grey",
+            "country": "United States",
+            "type-org": "Education",
+            "color": "blue",
             "marker": "circle",
             "collection": "projects"
           }

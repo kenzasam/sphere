@@ -3037,26 +3037,28 @@
     }
   },
   {
-    "title": null,
+    "title": "Interactive Mycelium Lights",
     "collection": "projects",
     "url": "/projects/interactivemyceliumlights/",
-    "subtitle": null,
-    "start-date": null,
+    "subtitle": "This is an ongoing project to intetegrate interactive lights and boards with mycelium lights",
+    "start-date": "2019-02-16",
     "end-date": null,
-    "status": "unknown",
+    "status": "active",
     "hosts": null,
     "partners": null,
-    "type-org": null,
+    "type-org": "Education",
     "address": null,
     "directions": null,
-    "city": null,
+    "city": "Philadelphia",
     "state": null,
     "post-code": null,
-    "country": null,
+    "country": "United States",
     "_geoloc": null,
-    "tags": null,
+    "tags": [],
     "links": {
-      
+      "facebook": "https://m.facebook.com/christopher.sweeney.7771/",
+      "twitter": "https://twitter.com/csweeneyartist",
+      "website": "https://www.sweeneyartist.com/"
     }
   },
   {
