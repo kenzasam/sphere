@@ -3037,6 +3037,29 @@
     }
   },
   {
+    "title": null,
+    "collection": "projects",
+    "url": "/projects/interactivemyceliumlights/",
+    "subtitle": null,
+    "start-date": null,
+    "end-date": null,
+    "status": "unknown",
+    "hosts": null,
+    "partners": null,
+    "type-org": null,
+    "address": null,
+    "directions": null,
+    "city": null,
+    "state": null,
+    "post-code": null,
+    "country": null,
+    "_geoloc": null,
+    "tags": null,
+    "links": {
+      
+    }
+  },
+  {
     "title": "Kombucha Genomics",
     "collection": "projects",
     "url": "/projects/kombuchagenomics/",

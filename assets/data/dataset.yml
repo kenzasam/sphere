@@ -2132,6 +2132,12 @@
     facebook: https://www.facebook.com/oxalisgenome/
     website: https://www.facebook.com/oxalisgenome/
 
+- title: 
+  collection: projects
+  sphere_url: /projects/interactivemyceliumlights/
+  links:
+    
+
 - title: Kombucha Genomics
   collection: projects
   sphere_url: /projects/kombuchagenomics/
