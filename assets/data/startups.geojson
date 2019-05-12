@@ -599,6 +599,26 @@
             "marker": "circle",
             "collection": "startups"
           }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
+            "title": "Feles for Bio-Imagineering",
+            "url": "/startups/feles/",
+            "address": "625 Massachusetts Avenue,",
+            "city": "Boston",
+            "state": null,
+            "country": "United States",
+            "type-org": "Company/Startup",
+            "color": "blue",
+            "marker": "marker",
+            "collection": "startups"
+          }
       }
       
     ]

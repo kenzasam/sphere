@@ -2790,4 +2790,18 @@
     twitter: https://twitter.com/TheODINinc
     website: http://www.the-odin.com/
 
+- title: Feles for Bio-Imagineering
+  collection: startups
+  sphere_url: /startups/feles/
+  subtitle: Build desktop biolabs for everyone
+  start-date: 2018-07-01
+  type-org: Company/Startup
+  city: Boston
+  country: United States
+  tags: 
+    - Hardware
+    - Biotechnology
+  links:
+    website: http://www.felesbio.com
+
 
