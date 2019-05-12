@@ -1267,6 +1267,31 @@
     }
   },
   {
+    "title": "Tool Foundry",
+    "collection": "incubators",
+    "url": "/incubators/toolfoundry/",
+    "subtitle": "Advancing accessible tools for scientific discovery",
+    "start-date": null,
+    "end-date": null,
+    "status": "unknown",
+    "hosts": null,
+    "partners": null,
+    "type-org": "nonprofit",
+    "address": null,
+    "directions": null,
+    "city": "NYC",
+    "state": null,
+    "post-code": null,
+    "country": "United States",
+    "_geoloc": null,
+    "tags": ["hardware"],
+    "links": {
+      "twitter": "https://twitter.com/Tool_Foundry",
+      "instagram": "https://www.instagram.com/tool_foundry/",
+      "website": "https://www.toolfoundry.org/"
+    }
+  },
+  {
     "title": "Art Science BLR",
     "collection": "labs",
     "url": "/labs/artscienceblr/",

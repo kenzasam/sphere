@@ -159,6 +159,26 @@
             "marker": "marker",
             "collection": "incubators"
           }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": 
+          "coordinates": []
+          },
+          "properties": {
+            "title": "Tool Foundry",
+            "url": "/incubators/toolfoundry/",
+            "address": null,
+            "city": "NYC",
+            "state": null,
+            "country": "United States",
+            "type-org": "nonprofit",
+            "color": "grey",
+            "marker": "circle",
+            "collection": "incubators"
+          }
       }
       
     ]
